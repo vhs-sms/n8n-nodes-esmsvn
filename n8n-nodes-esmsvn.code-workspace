@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"name": "docker n8n",
+			"path": "E:\\docker\\docker-compose\\nqdev\\apps\\n8n-io",
+		},
+	],
+	"settings": {},
+}
